@@ -40,7 +40,8 @@ class Kernel extends HttpKernel
         ],
 
         'tenant' => [
-            \App\Http\Middleware\Tenant\Tenant::class
+            \App\Http\Middleware\Tenant\Tenant::class,
+            \App\Http\Middleware\Tenant\Config::class,
         ],
 
         'api' => [

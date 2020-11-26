@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use App\Tenant\Observers\TenantObserver;
 use App\Tenant\TenantManager;
+use Illuminate\Http\Request;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -36,6 +37,10 @@ class AppServiceProvider extends ServiceProvider
 
         $this->app->singleton(TenantObserver::class, function () {
             return new TenantObserver(app(TenantManager::class)->getTenant());
+        });
+
+        Request::macro('tenant', function () {
+            return app(TenantManager::class)->getTenant();
         });
     }
 }

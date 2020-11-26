@@ -135,6 +135,11 @@
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\multi\app\Http\Controllers\Tenant" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -154,7 +159,7 @@
       <workItem from="1606224708132" duration="11104000" />
       <workItem from="1606270245325" duration="3311000" />
       <workItem from="1606312848411" duration="3800000" />
-      <workItem from="1606359542359" duration="1816000" />
+      <workItem from="1606359542359" duration="8088000" />
     </task>
     <servers />
   </component>
@@ -186,17 +191,17 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1606360611359" />
-    <state width="517" height="446" key="SwitcherDM" timestamp="1606360583173">
+    <state width="517" height="446" key="SwitcherDM" timestamp="1606369279567">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="517" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1606360583173" />
+    <state width="517" height="446" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1606369279567" />
     <state x="667" y="124" width="1199" height="801" key="find.popup" timestamp="1606359769847">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="667" y="124" width="1199" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606359769847" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606361057143">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606369650292">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606361057143" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606369650292" />
   </component>
 </project>
