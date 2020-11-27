@@ -6,14 +6,12 @@ use App\Tenant\Traits\ForTenants;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Product extends Model
+class Category extends Model
 {
     use HasFactory, ForTenants;
 
-    protected $fillable = ['name'];
-
-    public function categories()
+    public function products()
     {
-        return $this->belongsToMany(Category::class);
+        return $this->belongsToMany(Product::class);
     }
 }

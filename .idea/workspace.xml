@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7a8ecb-97ea-47e3-ad8a-4e09506ab370" name="Default Changelist" comment="" />
+    <list default="true" id="cb7a8ecb-97ea-47e3-ad8a-4e09506ab370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Tenant/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Tenant/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Tenant/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Tenant/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_26_033857_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_26_033857_create_products_table.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -159,7 +167,8 @@
       <workItem from="1606224708132" duration="11104000" />
       <workItem from="1606270245325" duration="3311000" />
       <workItem from="1606312848411" duration="3800000" />
-      <workItem from="1606359542359" duration="8088000" />
+      <workItem from="1606359542359" duration="8772000" />
+      <workItem from="1606448198252" duration="3882000" />
     </task>
     <servers />
   </component>
@@ -199,9 +208,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="667" y="124" width="1199" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606359769847" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606369650292">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606449183898">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606369650292" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606449183898" />
   </component>
 </project>
